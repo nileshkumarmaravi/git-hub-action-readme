@@ -1,4 +1,4 @@
-# 🚀 GitHub Actions - Complete Guide
+# 🚀 GitHub Actions 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
